@@ -1,4 +1,4 @@
-# clarity identity services inc. codeassignment
+# R2 hackathon assignment
 
 ### how to run the project
 
@@ -10,7 +10,7 @@
 git clone <project-git-hub-url> 
 cd <cloned-project>
 mvn clean install
-java -jar target/codeassignment-0.0.1-SNAPSHOT.jar
+java -jar target/hackathonassignment-0.0.1-SNAPSHOT.jar
 ```
 
 ### swagger endpoint.
