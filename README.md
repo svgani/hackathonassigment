@@ -7,7 +7,7 @@
 * maven 3.0.5 and above
 #### how to run project
 ```
-git clone <project-git-hub-url>
+git clone <project-git-hub-url> 
 cd <cloned-project>
 mvn clean install
 java -jar target/codeassignment-0.0.1-SNAPSHOT.jar
